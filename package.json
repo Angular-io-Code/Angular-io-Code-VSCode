@@ -1,0 +1,22 @@
+{
+    "name": "angular-io-code",
+    "displayName": "Angular-io-Code",
+    "description": "Angular.io inspired Color Theme.",
+    "version": "0.0.1",
+    "publisher": "NoHomey",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Angular-io-Code",
+                "uiTheme": "vs",
+                "path": "./themes/Angular-io-Code.tmTheme"
+            }
+        ]
+    }
+}
