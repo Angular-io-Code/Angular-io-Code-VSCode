@@ -917,8 +917,7 @@
 			<key>name</key>
 			<string>Decorators</string>
 			<key>scope</key>
-			<string>tag.decorator.js entity.name.tag.js, tag.decorator.js punctuation.definition.tag.js,
-tag.decorator.ts entity.name.tag.ts, tag.decorator.ts punctuation.definition.tag.ts</string>
+			<string>tag.decorator.js entity.name.tag.js, tag.decorator.js punctuation.definition.tag.js, tag.decorator.ts entity.name.tag.ts, tag.decorator.ts punctuation.definition.tag.ts</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -929,15 +928,7 @@ tag.decorator.ts entity.name.tag.ts, tag.decorator.ts punctuation.definition.tag
 			<key>name</key>
 			<string>Type</string>
 			<key>scope</key>
-			<string>meta.return.type,
-meta.return-type,
-meta.cast,
-meta.type.annotation,
-support.type,
-entity.name.class,
-entity.name.type,
-storage.type.cs,
-storage.type.java</string>
+			<string>meta.return.type, meta.return-type, meta.cast, meta.type.annotation, support.type, entity.name.class, entity.name.type, storage.type.cs, storage.type.java</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>

@@ -4,6 +4,7 @@
     "description": "Angular.io inspired Color Theme.",
     "version": "0.0.1",
     "publisher": "NoHomey",
+    "repository": "https://github.com/Angular-io-Code/Angular-io-Code-VSCode",
     "engines": {
         "vscode": "^1.0.0"
     },
