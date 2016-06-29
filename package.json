@@ -2,9 +2,10 @@
     "name": "angular-io-code",
     "displayName": "Angular-io-Code",
     "description": "Angular.io inspired Color Theme.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "NoHomey",
     "repository": "https://github.com/Angular-io-Code/Angular-io-Code-VSCode",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.0.0"
     },
